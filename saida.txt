@@ -1,4 +1,4 @@
-{sambox
+{
   "01001": {
     "arquivo": "01001.mp4",
     "artista": "paralamas do sucesso",
